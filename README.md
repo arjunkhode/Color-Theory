@@ -35,9 +35,9 @@ __________
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory4.png)
 
 ### Value
-- luminance: amount of light reflected from the hue
-- shade: value we get by mixing black
-- tint: value we get by mixing white
+- Luminance: amount of light reflected from the hue
+- Shade: value we get by mixing black
+- Tint: value we get by mixing white
 
 ￼![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory5.png)
 
@@ -55,8 +55,6 @@ blend mode: linear dodge
 
 * Value - get by adding black or white
 * Tone - get by adding grey/ reducing chroma. Useful for muting colors. In print, it is done by mixing compliments of colors
-
-_____
 
 ## Harmonizing I
 
@@ -77,7 +75,7 @@ _____
 * Square - 4 colors, equally spaced compliments. One dominant, other supporting.
 ￼
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory9.png)
-_____
+
 
 ## Color temperature
 
@@ -96,5 +94,7 @@ Cool colors can be soothing, calming and refreshing
 Light colors suggest airiness, rest and open up the space
 
 Darker hues close up space. 
+
+#Color mixing for pigments
 ￼
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory-10.png)
