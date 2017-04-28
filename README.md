@@ -17,20 +17,20 @@ In simple terms, they can be named as:
 __________
 
 ## Name
-- hue
+- Hue
 
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory1.png)
 ￼
 ### Purity
-- chroma: how pure it is in relation to pure gray
+- Chroma: how pure it is in relation to pure gray
 
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory2.png)
 ￼
-- saturation: degree of purity of a hue
+- Saturation: degree of purity of a hue
 
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory3.png)
 
-- intensity: brightness/dullness to a hue. black or white makes a color less intense
+- Intensity: brightness/dullness to a hue. black or white makes a color less intense
 ￼
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory4.png)
 
