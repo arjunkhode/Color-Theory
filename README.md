@@ -95,6 +95,6 @@ Light colors suggest airiness, rest and open up the space
 
 Darker hues close up space. 
 
-#Color mixing for pigments
+# Color mixing for pigments
 ￼
 ![](https://github.com/arjunkhode/Color-Theory/blob/master/color-theory-10.png)
